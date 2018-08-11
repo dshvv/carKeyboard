@@ -13,10 +13,10 @@ QQ：960423114
 
 ## 什么是 carKeyboard
 
-carKeyboard是一款车牌号输入法软键盘，此版本为jq版
+carKeyboard是一款车牌号输入法软键盘
 
 分为3个版本，jq版，angularJs版，vue2版
 
 
-```
-###  预览
+------
+##  预览
