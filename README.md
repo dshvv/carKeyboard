@@ -1,9 +1,22 @@
-这是一个web版本的聊天工具，利用的是websoket技术，具体请看下个版本<br/>
-此版本前端是vue2、后端是node<br/>
-只能选择提供的账号登录，因为没有连接数据库，所以是简单的聊天，不过已经有了以下功能<br/>
-1、账号挤掉<br/>
-2、两人一对一实时聊天<br/>
-3、好友列表<br/>
-4、退出登录<br/>
-...<br/>
-![预览图](https://github.com/dshvv/WCQ/raw/2.0/preview.png)
+# 欢迎使用 carKeyboard
+
+------
+
+作者：丁少华
+
+网名：会飞的鱼lala
+
+QQ：960423114
+
+
+------
+
+## 什么是 carKeyboard
+
+carKeyboard是一款车牌号输入法软键盘，此版本为jq版
+
+分为3个版本，jq版，angularJs版，vue2版
+
+
+```
+###  预览
